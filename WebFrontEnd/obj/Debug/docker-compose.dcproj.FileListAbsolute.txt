@@ -1,0 +1,14 @@
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\WebFrontEnd.Views.dll
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\WebFrontEnd.Views.pdb
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\appsettings.Development.json
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\appsettings.json
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\Properties\launchSettings.json
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\WebFrontEnd.exe
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\MyWebAPI.exe
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\MyWebAPI.dll
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\WebFrontEnd.dll
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\WebFrontEnd.pdb
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\bin\Debug\MyWebAPI.pdb
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd\obj\Debug\docker-compose.dcproj.CopyComplete

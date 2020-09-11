@@ -1,0 +1,28 @@
+services:
+  mywebapi:
+    build:
+      context: C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd
+      dockerfile: MyWebAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: mywebapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\hampe\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+  webfrontend:
+    build:
+      context: C:\Users\hampe\Repos\Skola\Molntjänster\WebApiDocker\WebFrontEnd
+      dockerfile: WebFrontEnd/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: webfrontend
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\hampe\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+version: '3.4'

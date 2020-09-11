@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jcGtOnfIbgn97fnJCENIpVFa+ZwaszPgz54I/DijeV6uyXbaeuYV0ZMrghHbBZxBwcbVtc4xh4wDVTWqobOmxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hampe\\Repos\\Skola\\Molntjänster\\WebApiDocker\\WebFrontEnd\\WebFrontEnd\\WebFrontEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hampe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
